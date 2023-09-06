@@ -12,9 +12,8 @@
   <div align="center">
   <a href="https://github.com/renanfavoni">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanfavoni&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
- 
   </a>
-</div>
+  </div>
 
 <div align="center">
   <a href="https://www.instagram.com/renanfavoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
